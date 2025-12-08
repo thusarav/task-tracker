@@ -88,10 +88,8 @@ You can view builds in the Actions tab of the repository.
 
 📸 Screenshots
 
-<p align="center">
   <img src="./assets/screenshots/ui-dark.png" width="45%" />
   <img src="./assets/screenshots/ui-light.png" width="45%" />
-</p>
 
 🛠 Tech Stack
 React
