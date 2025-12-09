@@ -88,16 +88,14 @@ You can view builds in the Actions tab of the repository.
 
 📸 Screenshots
 
-<<<<<<< HEAD
-  <img src="./assets/screenshots/ui-dark.png" width="45%" />
-  <img src="./assets/screenshots/ui-light.png" width="45%" />
-=======
+## 📸 Screenshots
+
 ### Dark Mode
 ![Dark mode UI](assets/screenshots/ui-dark.png)
 
 ### Light Mode
 ![Light mode UI](assets/screenshots/ui-light.png)
->>>>>>> 6e8ba27 (Update README and screenshots)
+
 
 🛠 Tech Stack
 React
