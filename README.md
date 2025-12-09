@@ -89,10 +89,10 @@ You can view builds in the Actions tab of the repository.
 ## 📸 Screenshots
 
 ### Dark Mode
-<img src="assets/screenshots/ui-dark.png" alt="Dark mode UI" width="800"/>
+![Dark Mode](https://raw.githubusercontent.com/thusarav/task-tracker/main/assets/screenshots/ui-dark.png)
 
 ### Light Mode
-<img src="assets/screenshots/ui-light.png" alt="Light mode UI" width="800"/>
+![Light Mode](https://raw.githubusercontent.com/thusarav/task-tracker/main/assets/screenshots/ui-light.png)
 
 ## 🛠 Tech Stack
 
