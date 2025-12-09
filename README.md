@@ -95,18 +95,20 @@ You can view builds in the Actions tab of the repository.
 ![Light mode UI](assets/screenshots/ui-light.png)
 
 ## 🛠 Tech Stack
-React
-Vite
-Node.js
-Express
-MongoDB
-Docker
-Docker Compose
-GitHub Actions CI
 
-📈 Future Improvements
-Production build using Nginx
-Multi-stage Docker builds
-Task editing functionality
-User authentication (JWT)
-Deploy to cloud (Railway / Render / AWS)
+- React
+- Vite
+- Node.js
+- Express
+- MongoDB
+- Docker
+- Docker Compose
+- GitHub Actions CI
+
+## 📈 Future Improvements
+
+- Production build using Nginx
+- Multi-stage Docker builds
+- Task editing functionality
+- User authentication (JWT)
+- Deploy to cloud (Railway / Render / AWS)
