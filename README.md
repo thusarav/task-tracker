@@ -86,8 +86,6 @@ Docker Compose validation
 Docker image builds for client & api
 You can view builds in the Actions tab of the repository.
 
-📸 Screenshots
-
 ## 📸 Screenshots
 
 ### Dark Mode
@@ -96,8 +94,7 @@ You can view builds in the Actions tab of the repository.
 ### Light Mode
 ![Light mode UI](assets/screenshots/ui-light.png)
 
-
-🛠 Tech Stack
+## 🛠 Tech Stack
 React
 Vite
 Node.js
