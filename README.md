@@ -89,10 +89,10 @@ You can view builds in the Actions tab of the repository.
 ## 📸 Screenshots
 
 ### Dark Mode
-![Dark mode UI](assets/screenshots/ui-dark.png)
+<img src="assets/screenshots/ui-dark.png" alt="Dark mode UI" width="800"/>
 
 ### Light Mode
-![Light mode UI](assets/screenshots/ui-light.png)
+<img src="assets/screenshots/ui-light.png" alt="Light mode UI" width="800"/>
 
 ## 🛠 Tech Stack
 
